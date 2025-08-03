@@ -22,6 +22,10 @@ To view or edit the portfolio locally:
 1. Clone the repository:
    ```bash
    git clone (https://github.com/TopmanDev/Hackathon1.git)
+   
+2. Visit my portfolio website on:
+   ```GitHub Page
+   (https://topmandev.github.io/Hackathon1/)
 
 Open index.html in your browser.
 Edit style.css and index.html to personalize content.
